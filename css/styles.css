@@ -1,0 +1,151 @@
+a {
+  font-size: 130%;
+  color: #11999E;
+  text-decoration: none;
+  margin: 50px 5px 20px 10px;
+  font-family: 'Vesper Libre', serif;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Signika', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Alex Brush', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Vesper Libre', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Signika', sans-serif;
+}
+
+p {
+  font-family: 'Playfair Display', serif;
+  color: #40514E;
+}
+
+.About-Me {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.coding-Development {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.Cooking {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.contact-me {
+  margin: 0 auto;
+  width:22%;
+
+}
+
+.copyright {
+  color: #eaf6f6;
+}
+.intro{
+  width:25%;
+  margin: 0 auto;
+}
+
+.profile {
+  margin: 100px 0;
+}
+.pro{
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #6fbfbf;
+  padding: 50px 0 20px;
+}
+
+.top-cloud {
+  position: static;
+  margin-left: 800px;
+  margin-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  margin-right: 300px;
+  left:20%;
+}
+
+.prasadam {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.web {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.skill-row {
+  background: white;
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+  margin: 100px auto 200px auto;
+}
+
+.dot {
+  width: 7%;
+  border-top: 10px dotted #EAF6F6;
+}
+
+.btn {
+  box-shadow: 1px 1px 0 #6757F9;
+  background: linear-gradient(to bottom, #11999E 5%, #0688fa 100%);
+  background-color: #11999E;
+  border-radius: 8px;
+  border: 1px solid #0b0e07;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Signika', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 15px 23px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #263666;
+}
+
+.btn:hover {
+  background: #468CCF;
+  background: linear-gradient(top, red, yellow);
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
